@@ -10,6 +10,7 @@ public class Menu {
         System.out.println("del_all - 항목 모두 삭제");
         System.out.println("del_comp - 완료 항목 삭제");
         System.out.println("edit - 항목 삭제");
+        System.out.println("comp - 항목 완료처");
         System.out.println("ls - 전체 목록");
         System.out.println("ls_cate - 카테고리 목록");
         System.out.println("ls_comp - 완료된 목록");
